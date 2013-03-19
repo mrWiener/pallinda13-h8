@@ -6,8 +6,12 @@
  */
 package main
 
-import "bug1"
+import (
+	"bug1"
+	"bug2"
+)
 
 func main() {
 	bug1.Main()
+	bug2.Main()
 }
