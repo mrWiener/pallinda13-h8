@@ -6,5 +6,8 @@
  */
 package main
 
+import "bug1"
+
 func main() {
+	bug1.Main()
 }
