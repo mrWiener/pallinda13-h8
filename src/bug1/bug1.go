@@ -1,9 +1,4 @@
-/**
- * Created with IntelliJ IDEA.
- * User: lucas
- * Date: 3/19/13
- * Time: 3:42 PM
- */
+
 package bug1
 
 import "fmt"
