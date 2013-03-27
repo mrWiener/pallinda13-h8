@@ -1,10 +1,4 @@
-/**
- * Created with IntelliJ IDEA.
- * User: lucas
- * Date: 3/19/13
- * Time: 3:48 PM
- * To change this template use File | Settings | File Templates.
- */
+
 package bug2
 
 import "fmt"
